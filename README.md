@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
 ```
 ## Output:
 
-![image](https://github.com/22008686/Ex5-Animator-Movement/assets/118916413/1230b12a-94fe-4d96-b6a3-137087e41279)
+![Screenshot 2025-05-26 101204](https://github.com/user-attachments/assets/e1ad1c69-8054-4aa6-a762-8a000261aae1)
 
 
 ## Result:
